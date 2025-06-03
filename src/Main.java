@@ -35,7 +35,6 @@ public class Main {
 
         return userInput;
     }
-
     public static String getName() {
         return name;
     }
